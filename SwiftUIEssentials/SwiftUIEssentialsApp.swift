@@ -13,7 +13,8 @@ struct SwiftUIEssentialsApp: App {
         WindowGroup {
             //ContentView()
             //TextComponents()
-            ButtonViews()
+            //ButtonViews()
+            ImageViews()
         }
     }
 }

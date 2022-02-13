@@ -13,6 +13,7 @@
 		A48207D227B9B81D0008B8DD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A48207D127B9B81D0008B8DD /* Preview Assets.xcassets */; };
 		A48207D927B9B8950008B8DD /* TextComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = A48207D827B9B8950008B8DD /* TextComponents.swift */; };
 		A48207DB27B9C9AE0008B8DD /* ButtonViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A48207DA27B9C9AE0008B8DD /* ButtonViews.swift */; };
+		A498AD4A27B9CD6400C8D2FB /* ImageViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A498AD4927B9CD6400C8D2FB /* ImageViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		A48207D127B9B81D0008B8DD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A48207D827B9B8950008B8DD /* TextComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextComponents.swift; sourceTree = "<group>"; };
 		A48207DA27B9C9AE0008B8DD /* ButtonViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonViews.swift; sourceTree = "<group>"; };
+		A498AD4927B9CD6400C8D2FB /* ImageViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				A48207CE27B9B81D0008B8DD /* Assets.xcassets */,
 				A48207D027B9B81D0008B8DD /* Preview Content */,
 				A48207DA27B9C9AE0008B8DD /* ButtonViews.swift */,
+				A498AD4927B9CD6400C8D2FB /* ImageViews.swift */,
 			);
 			path = SwiftUIEssentials;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A498AD4A27B9CD6400C8D2FB /* ImageViews.swift in Sources */,
 				A48207CD27B9B81C0008B8DD /* ContentView.swift in Sources */,
 				A48207CB27B9B81C0008B8DD /* SwiftUIEssentialsApp.swift in Sources */,
 				A48207D927B9B8950008B8DD /* TextComponents.swift in Sources */,
