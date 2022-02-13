@@ -14,7 +14,8 @@ struct SwiftUIEssentialsApp: App {
             //ContentView()
             //TextComponents()
             //ButtonViews()
-            ImageViews()
+            //ImageViews()
+            TextFields()
         }
     }
 }
