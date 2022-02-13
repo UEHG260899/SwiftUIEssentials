@@ -12,7 +12,8 @@ struct SwiftUIEssentialsApp: App {
     var body: some Scene {
         WindowGroup {
             //ContentView()
-            TextComponents()
+            //TextComponents()
+            ButtonViews()
         }
     }
 }
