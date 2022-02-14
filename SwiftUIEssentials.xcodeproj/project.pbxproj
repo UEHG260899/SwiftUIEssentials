@@ -18,6 +18,7 @@
 		A498AD4E27B9D26200C8D2FB /* Dividers.swift in Sources */ = {isa = PBXBuildFile; fileRef = A498AD4D27B9D26200C8D2FB /* Dividers.swift */; };
 		A498AD5027B9D43900C8D2FB /* StacksAndSpacers.swift in Sources */ = {isa = PBXBuildFile; fileRef = A498AD4F27B9D43900C8D2FB /* StacksAndSpacers.swift */; };
 		A498AD5227B9D9BD00C8D2FB /* ZStacksAndPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = A498AD5127B9D9BD00C8D2FB /* ZStacksAndPadding.swift */; };
+		A498AD5427B9DF0500C8D2FB /* TabViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A498AD5327B9DF0500C8D2FB /* TabViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		A498AD4D27B9D26200C8D2FB /* Dividers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dividers.swift; sourceTree = "<group>"; };
 		A498AD4F27B9D43900C8D2FB /* StacksAndSpacers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksAndSpacers.swift; sourceTree = "<group>"; };
 		A498AD5127B9D9BD00C8D2FB /* ZStacksAndPadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStacksAndPadding.swift; sourceTree = "<group>"; };
+		A498AD5327B9DF0500C8D2FB /* TabViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				A498AD4D27B9D26200C8D2FB /* Dividers.swift */,
 				A498AD4F27B9D43900C8D2FB /* StacksAndSpacers.swift */,
 				A498AD5127B9D9BD00C8D2FB /* ZStacksAndPadding.swift */,
+				A498AD5327B9DF0500C8D2FB /* TabViews.swift */,
 			);
 			path = SwiftUIEssentials;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 				A48207CB27B9B81C0008B8DD /* SwiftUIEssentialsApp.swift in Sources */,
 				A498AD5227B9D9BD00C8D2FB /* ZStacksAndPadding.swift in Sources */,
 				A48207D927B9B8950008B8DD /* TextComponents.swift in Sources */,
+				A498AD5427B9DF0500C8D2FB /* TabViews.swift in Sources */,
 				A48207DB27B9C9AE0008B8DD /* ButtonViews.swift in Sources */,
 				A498AD5027B9D43900C8D2FB /* StacksAndSpacers.swift in Sources */,
 				A498AD4C27B9CF7500C8D2FB /* TextFields.swift in Sources */,
