@@ -18,7 +18,8 @@ struct SwiftUIEssentialsApp: App {
             //TextFields()
             //Dividers()
             //StacksAndSpacers()
-            ZStacksAndPadding()
+            //ZStacksAndPadding()
+            Player()
         }
     }
 }
