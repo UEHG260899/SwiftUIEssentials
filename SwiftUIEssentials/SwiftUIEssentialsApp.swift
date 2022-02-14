@@ -16,7 +16,8 @@ struct SwiftUIEssentialsApp: App {
             //ButtonViews()
             //ImageViews()
             //TextFields()
-            Dividers()
+            //Dividers()
+            StacksAndSpacers()
         }
     }
 }
